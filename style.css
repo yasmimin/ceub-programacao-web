@@ -1,0 +1,21 @@
+h1, h2, h3, h4 {
+    color: yellow;
+ }
+
+
+ #titulos {
+    color: blue;
+    background-color: chocolate; 
+    padding: 50px 40px 30px 20px;
+    border: 10px dotted black;
+    margin: 50px 40px 30px 20px;
+ }
+
+footer {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   text-align: center;
+   background-color: #ffe0b2;
+}
